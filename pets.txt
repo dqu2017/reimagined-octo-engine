@@ -1,0 +1,12 @@
+Species: 
+Labrador Retriever
+Bulldog
+Beagle
+German Shepherd
+
+
+Color:
+Red
+Blue
+Black
+White
